@@ -1,0 +1,1 @@
+# whoscored-web-scraper
